@@ -9,4 +9,5 @@ nano /root/.config/ngrok/ngrok.yml \
 `  ssh-access: `\
 `    addr: 22 `\
 `    proto: tcp `\
-   
+RUN
+` ngrok start --all --config=/root/.ngrok2/ngrok.yml `
