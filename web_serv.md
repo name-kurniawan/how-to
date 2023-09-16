@@ -11,7 +11,7 @@
    ` flush privileges;` \
    `  exit; `
 4. install php \
-   ` sudo apt-get install php php-mysql libapache2-mod-php php-cli php-cgi php-gd `
+   ` sudo apt-get install php php-mysql libapache2-mod-php php-cli php-cgi php-gd php-fpm `
 5. install phpmyadm \
    ` sudo apt install phpmyadmin `
 6. Restart apache \
