@@ -1,3 +1,7 @@
+<p align="center"><strong>Configure bash</strong></p>
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/name-kurniawan/how-to/main/figlet/figlet-bash.png" height="850"></h2>
+
 ### Configure bash
 ` sudo apt install figlet `\
 ` cd `\
